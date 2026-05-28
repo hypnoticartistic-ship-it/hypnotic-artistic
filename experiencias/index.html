@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Experiencias | HYPNOTIC ARTISTIC</title>
+    <meta
+      name="description"
+      content="Experiencias artisticas de HYPNOTIC ARTISTIC: shows en vivo, experiencias inmersivas, propuestas infantiles y eventos corporativos."
+    />
+    <meta name="theme-color" content="#000000" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Italiana&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="galeria.css" />
+    <script defer src="../script.js"></script>
+  </head>
+  <body class="gallery-page experience-index-page">
+    <header class="gallery-header" aria-label="Navegacion de experiencias">
+      <a class="brand-mark" href="../index.html#home" aria-label="Ir al inicio">
+        <img class="logo-img logo-img-header" src="../assets/brand/hypnotic-logo-transparent.png" alt="HYPNOTIC ARTISTIC" />
+      </a>
+      <a class="back-link" href="../index.html#experiencias">Volver</a>
+    </header>
+
+    <main class="experience-index-shell">
+      <canvas id="particle-canvas" aria-hidden="true"></canvas>
+      <div class="flow-field" aria-hidden="true"></div>
+
+      <section class="section-heading reveal">
+        <p class="eyebrow">Universos a medida</p>
+        <h1>EXPERIENCIAS</h1>
+        <p>Cuatro lineas de produccion para explorar y ampliar con contenido audiovisual por temporada.</p>
+      </section>
+
+      <section class="carousel reveal" aria-label="Categorias de experiencias">
+        <button class="carousel-arrow prev" type="button" aria-label="Experiencia anterior">‹</button>
+        <div class="carousel-stage">
+          <article class="experience-card is-active">
+            <img src="../assets/media/web/fuego-juli.jpg" alt="Fire performer live show production" loading="lazy" />
+            <div class="card-copy">
+              <span>01</span>
+              <h2>Shows en vivo</h2>
+              <p>Performance escenica, impacto visual, personajes, danza, fuego y material audiovisual de nuestras puestas.</p>
+              <a href="shows-en-vivo.html">Ver mas</a>
+            </div>
+          </article>
+
+          <article class="experience-card">
+            <img src="../assets/media/web/navidad-ceci.jpg" alt="Christmas immersive artistic experience performer" loading="lazy" />
+            <div class="card-copy">
+              <span>02</span>
+              <h2>Experiencias inmersivas</h2>
+              <p>Producciones integrales como Un Sueno de Navidad: estetica, recorrido, personajes, ambientacion y puesta en escena.</p>
+              <a href="experiencias-inmersivas.html">Ver mas</a>
+            </div>
+          </article>
+
+          <article class="experience-card">
+            <img src="../assets/media/web/candy-new.jpg" alt="Candy themed performers for children events" loading="lazy" />
+            <div class="card-copy">
+              <span>03</span>
+              <h2>Propuestas infantiles</h2>
+              <p>Universos ludicos, personajes, recepciones, intervenciones y acciones pensadas para sorprender a los mas chicos.</p>
+              <a href="shows-infantiles.html">Ver mas</a>
+            </div>
+          </article>
+
+          <article class="experience-card">
+            <img src="../assets/media/web/laser-show.jpg" alt="Corporate event artistic activation with laser performance" loading="lazy" />
+            <div class="card-copy">
+              <span>04</span>
+              <h2>Eventos corporativos</h2>
+              <p>Soluciones artisticas para empresas, marcas, lanzamientos, activaciones y eventos privados de alto impacto.</p>
+              <a href="eventos-corporativos-sociales.html">Ver mas</a>
+            </div>
+          </article>
+        </div>
+        <button class="carousel-arrow next" type="button" aria-label="Experiencia siguiente">›</button>
+        <div class="carousel-dots" aria-label="Seleccionar experiencia"></div>
+      </section>
+    </main>
+  </body>
+</html>

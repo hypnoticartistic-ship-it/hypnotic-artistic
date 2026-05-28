@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Santa Claus character placeholder</title>
+  <rect width="1200" height="1400" fill="#080808"/>
+  <path d="M390 350c60-210 230-260 420-170-170 10-210 90-210 230z" fill="#dcdcdc"/>
+  <circle cx="610" cy="510" r="120" fill="#efefef"/><path d="M420 610c115 160 255 190 420 0-30 190-170 280-420 270z" fill="#cfcfcf"/>
+  <path d="M260 1240c48-270 160-430 340-480 180 50 292 210 340 480z" fill="#222"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">SANTA CHARACTER</text>
+</svg>

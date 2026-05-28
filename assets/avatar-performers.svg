@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-labelledby="title">
+  <title id="title">Fantasy blue body paint performers placeholder</title>
+  <rect width="1200" height="1600" fill="#090909"/>
+  <circle cx="420" cy="520" r="110" fill="#d7d7d7"/><circle cx="780" cy="520" r="110" fill="#bcbcbc"/>
+  <path d="M250 1260c50-360 150-560 300-600 120 92 210 92 330 0 150 40 250 240 300 600z" fill="#242424"/>
+  <path d="M338 505c190 60 360 60 524 0M340 610c180 78 350 78 520 0M360 760c150 52 330 52 480 0" stroke="#f1f1f1" stroke-width="10" opacity=".42" fill="none"/>
+  <text x="80" y="1500" fill="#fff" font-family="Arial" font-size="48" font-weight="700">AVATAR STYLE</text>
+</svg>

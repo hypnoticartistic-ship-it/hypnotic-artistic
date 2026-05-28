@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-labelledby="title">
+  <title id="title">Aerial silk performer placeholder</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111"/><stop offset="1" stop-color="#343434"/></linearGradient></defs>
+  <rect width="1200" height="1600" fill="url(#g)"/>
+  <path d="M600 0v700" stroke="#d8d8d8" stroke-width="8" opacity=".55"/>
+  <path d="M560 230c-120 180-120 420 32 590M640 230c120 180 120 420-32 590" fill="none" stroke="#f3f3f3" stroke-width="16" opacity=".8"/>
+  <circle cx="600" cy="710" r="54" fill="#e5e5e5"/>
+  <path d="M600 760c-92 60-138 166-128 318 110-62 190-155 240-278 82 112 147 214 194 306 12-160-32-278-132-354-52 72-108 88-174 8z" fill="#c0c0c0" opacity=".9"/>
+  <text x="80" y="1500" fill="#fff" font-family="Arial" font-size="52" font-weight="700">AERIAL SILK</text>
+</svg>

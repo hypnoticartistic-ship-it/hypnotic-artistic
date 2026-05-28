@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Candy themed performers placeholder</title>
+  <rect width="1200" height="1400" fill="#080808"/>
+  <g opacity=".86" fill="none" stroke="#dcdcdc" stroke-width="28"><circle cx="335" cy="490" r="135"/><circle cx="600" cy="430" r="170"/><circle cx="870" cy="500" r="135"/></g>
+  <path d="M120 1180c50-310 160-485 330-525l150 245 150-245c170 40 280 215 330 525z" fill="#232323"/>
+  <path d="M260 760h690M210 890h780M185 1020h830" stroke="#f4f4f4" stroke-width="14" opacity=".45"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">CANDY THEME</text>
+</svg>

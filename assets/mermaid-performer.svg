@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Mermaid performer placeholder</title>
+  <rect width="1200" height="1400" fill="#080808"/>
+  <path d="M120 880c250-90 430-90 600 0 150 80 270 80 360 0v360H120z" fill="#181818"/>
+  <circle cx="585" cy="350" r="78" fill="#e5e5e5"/>
+  <path d="M520 430c-96 90-110 210-45 360 120-20 210-94 270-222-22-82-70-130-145-150-28 26-54 30-80 12z" fill="#d7d7d7"/>
+  <path d="M520 800c-10 155 45 270 165 345 30-122 18-245-36-369M650 775c110 110 210 170 300 180-60-120-145-200-255-240" stroke="#f6f6f6" stroke-width="16" opacity=".56" fill="none"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">MERMAID EXPERIENCE</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Flamingo performer placeholder</title>
+  <rect width="1200" height="1400" fill="#080808"/>
+  <circle cx="610" cy="430" r="90" fill="#e7e7e7"/>
+  <path d="M455 550c160-150 310-110 420 40-70 150-170 260-300 330-115-80-155-200-120-370z" fill="#d2d2d2"/>
+  <path d="M300 720c180-70 420-40 650 90-185 46-370 50-560 14M410 940c140-28 290-20 450 28" stroke="#fff" stroke-width="14" opacity=".45" fill="none"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">FLAMINGO STYLE</text>
+</svg>

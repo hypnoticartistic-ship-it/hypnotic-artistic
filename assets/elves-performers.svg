@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" role="img" aria-labelledby="title">
+  <title id="title">Christmas elves performers placeholder</title>
+  <rect width="1400" height="1000" fill="#090909"/>
+  <path d="M230 400l160-230 160 230zM850 400l160-230 160 230z" fill="#d9d9d9"/>
+  <circle cx="390" cy="470" r="85" fill="#efefef"/><circle cx="1010" cy="470" r="85" fill="#c9c9c9"/>
+  <path d="M210 870c35-230 120-360 260-390 130 80 220 80 350 0 140 30 225 160 260 390z" fill="#262626"/>
+  <rect x="545" y="670" width="300" height="190" fill="#151515" stroke="#f4f4f4" stroke-width="12"/><path d="M695 670v190M545 765h300" stroke="#f4f4f4" stroke-width="10"/>
+  <text x="70" y="930" fill="#fff" font-family="Arial" font-size="44" font-weight="700">CHRISTMAS ELVES</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Fire performers placeholder</title>
+  <rect width="1200" height="1400" fill="#060606"/>
+  <path d="M160 370c210 120 670 120 880 0" stroke="#ececec" stroke-width="18" fill="none"/>
+  <path d="M230 330c45-100 28-158 105-250 64 110 18 178 86 250zM875 330c45-100 28-158 105-250 64 110 18 178 86 250z" fill="#dedede"/>
+  <circle cx="590" cy="610" r="82" fill="#d8d8d8"/>
+  <path d="M575 700c-140 90-210 252-210 486h500c0-234-70-396-210-486-22 34-50 50-80 0z" fill="#242424"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">FIRE SHOW</text>
+</svg>

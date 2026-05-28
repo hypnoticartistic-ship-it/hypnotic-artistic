@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title">
+  <title id="title">Lion character performer placeholder</title>
+  <rect width="1200" height="1400" fill="#070707"/>
+  <circle cx="600" cy="520" r="260" fill="#1f1f1f"/><circle cx="600" cy="520" r="145" fill="#d8d8d8"/>
+  <path d="M500 500h1M700 500h1" stroke="#090909" stroke-width="28" stroke-linecap="round"/><path d="M560 590c40 28 80 28 120 0" stroke="#090909" stroke-width="14" fill="none"/>
+  <path d="M230 1240c50-280 172-440 370-480 198 40 320 200 370 480z" fill="#242424"/>
+  <text x="80" y="1310" fill="#fff" font-family="Arial" font-size="48" font-weight="700">WILD CHARACTER</text>
+</svg>
